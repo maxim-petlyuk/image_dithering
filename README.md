@@ -1,1 +1,1 @@
-# image_dithering
+#Android image dithering through the JNI. For now only for pictures with size(512x512, 256x256, 128x128, etc)

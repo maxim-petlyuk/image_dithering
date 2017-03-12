@@ -1,0 +1,2 @@
+set solib-search-path C:/AndroidProjects/Demo/pictureClarify/app/obj/local/x86
+directory C:/android_sdk/sdk/ndk-bundle/build//../platforms/android-9/arch-x86 C:/android_sdk/sdk/ndk-bundle/build//../sources/cxx-stl/gnu-libstdc++ C:/android_sdk/sdk/ndk-bundle/build//../sources/cxx-stl/gnu-libstdc++/4.9/include C:/android_sdk/sdk/ndk-bundle/build//../sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include C:/android_sdk/sdk/ndk-bundle/build//../sources/cxx-stl/gnu-libstdc++/4.9/include/backward C:/AndroidProjects/Demo/pictureClarify/app/jni/unblurring
